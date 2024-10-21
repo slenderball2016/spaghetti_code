@@ -1,0 +1,4 @@
+﻿  hvhb1ghch.cpp
+C:\Users\slend\OneDrive\Робочий стіл\hvhb1ghch\hvhb1ghch.cpp(5,574): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\slend\OneDrive\Робочий стіл\hvhb1ghch\hvhb1ghch.cpp(5,1679): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hvhb1ghch.vcxproj -> C:\Users\slend\OneDrive\Робочий стіл\hvhb1ghch\x64\Debug\hvhb1ghch.exe
